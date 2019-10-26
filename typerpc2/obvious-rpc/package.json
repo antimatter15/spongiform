@@ -1,9 +1,0 @@
-{
-  "name": "obvious-rpc",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "isomorphic-fetch": "^2.2.1"
-  }
-}

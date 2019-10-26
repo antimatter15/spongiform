@@ -1,0 +1,11 @@
+{
+  "name": "spongiform",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:antimatter15/spongiform.git",
+  "author": "Kevin Kwok <antimatter15@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sqlite-parser": "^1.0.1"
+  }
+}
